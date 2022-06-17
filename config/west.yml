@@ -11,7 +11,7 @@ manifest:
     - name: shaoye1995
       url-base: https://github.com/shaoye1995
   projects:
-    - name: zmktest
+    - name: zmk
       remote: shaoye1995
       revision: main
       import: app/west.yml
